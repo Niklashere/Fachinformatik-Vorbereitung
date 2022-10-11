@@ -16,7 +16,7 @@
 
 ## 🚀 Getting Started
 
-Folge der Anleitung im [Wiki](https://github.com/Niklashere/Fachinformatik-Vorbereitungen/wiki/Getting-started) um zu starten.
+Folge der Anleitung im [Wiki](https://github.com/Niklashere/Fachinformatik-Vorbereitung/wiki) um zu starten.
 
 ## 💾 Contributing
 

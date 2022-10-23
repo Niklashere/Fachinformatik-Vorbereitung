@@ -8,11 +8,12 @@
 Übersicht der Ankidecks:
 - [x] Lernfeld 1
 - [x] Lernfeld 2
-- [ ] Lernfeld 3
-- [ ] Lernfeld 4
+- [x] Lernfeld 3
+- [x] Lernfeld 3W
+- [x] Lernfeld 4
 - [x] Lernfeld 5
 - [x] Englisch
-- [ ] Wirtschaft- und Sozialkunde
+- [x] Wirtschaft- und Sozialkunde
 
 ## 🚀 Getting Started
 

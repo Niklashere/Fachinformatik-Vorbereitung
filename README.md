@@ -15,6 +15,15 @@
 - [x] Englisch
 - [x] Wirtschaft- und Sozialkunde
 
+Übersicht der Präsenationen:
+- [x] Lernfeld 1
+- [x] Lernfeld 2
+- [x] Lernfeld 3
+- [x] Lernfeld 3W
+- [x] Lernfeld 4
+- [x] Lernfeld 5
+- [x] Wirtschaft- und Sozialkunde
+
 ## 🚀 Getting Started
 
 Folge der Anleitung im [Wiki](https://github.com/Niklashere/Fachinformatik-Vorbereitung/wiki) um zu starten.
